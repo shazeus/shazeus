@@ -67,58 +67,6 @@ I like projects that are simple to use, fast to run, and built with a clear purp
 
 ---
 
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/shazeus/logwatch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shazeus&repo=logwatch&theme=github_dark&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/shazeus/clipvault">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shazeus&repo=clipvault&theme=github_dark&hide_border=true&border_radius=12" />
-</a>
-
-<a href="https://github.com/shazeus/webprobe-cli">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shazeus&repo=webprobe-cli&theme=github_dark&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/shazeus/ghspy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shazeus&repo=ghspy&theme=github_dark&hide_border=true&border_radius=12" />
-</a>
-
-<a href="https://github.com/shazeus/reposcan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shazeus&repo=reposcan&theme=github_dark&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/shazeus/vizflow-cli">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shazeus&repo=vizflow-cli&theme=github_dark&hide_border=true&border_radius=12" />
-</a>
-
-</div>
-
----
-
-## Project Index
-
-| Project                                                   | Description                                                    |
-| --------------------------------------------------------- | -------------------------------------------------------------- |
-| [logwatch](https://github.com/shazeus/logwatch)           | Real-time log analyzer and terminal monitor.                   |
-| [docsmith-cli](https://github.com/shazeus/docsmith-cli)   | Documentation generator and converter CLI.                     |
-| [clipvault](https://github.com/shazeus/clipvault)         | Encrypted clipboard history manager with fuzzy search.         |
-| [vizflow-cli](https://github.com/shazeus/vizflow-cli)     | Data visualization pipeline tool for charts and dashboards.    |
-| [dotfiles-tool](https://github.com/shazeus/dotfiles-tool) | Dotfile manager for syncing and restoring config files.        |
-| [mockapi-cli](https://github.com/shazeus/mockapi-cli)     | Local mock API generator for prototyping and testing.          |
-| [webprobe-cli](https://github.com/shazeus/webprobe-cli)   | Website reconnaissance toolkit for authorized research.        |
-| [gitforge-cli](https://github.com/shazeus/gitforge-cli)   | Git workflow automation for branches, snapshots, and releases. |
-| [hashcrack](https://github.com/shazeus/hashcrack)         | Hash identification and lookup tool for CTF practice.          |
-| [depstree](https://github.com/shazeus/depstree)           | Dependency analyzer for project inspection and audits.         |
-| [portmap](https://github.com/shazeus/portmap)             | Lightweight network scanner CLI.                               |
-| [qrforge](https://github.com/shazeus/qrforge)             | QR code generator and manager for terminal workflows.          |
-| [shellguard](https://github.com/shazeus/shellguard)       | Terminal session recorder and security auditor.                |
-| [ghspy](https://github.com/shazeus/ghspy)                 | GitHub OSINT and profile intelligence tool.                    |
-| [reposcan](https://github.com/shazeus/reposcan)           | GitHub repository analytics from the terminal.                 |
-| [qk-tool](https://github.com/shazeus/qk-tool)             | Multi-OS CLI Swiss army knife for daily computer tasks.        |
-
----
-
 ## GitHub Overview
 
 <div align="center">
