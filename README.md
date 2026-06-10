@@ -90,21 +90,3 @@ I like projects that are simple to use, fast to run, and built with a clear purp
 </div>
 
 ---
-
-## Current Direction
-
-I’m currently improving my skills by building real tools, experimenting with developer workflows, and learning more about security, automation, and software internals.
-
-I prefer projects that are:
-
-<p align="center">
-  <b>fast</b> · <b>minimal</b> · <b>practical</b> · <b>readable</b> · <b>purpose-built</b>
-</p>
-
----
-
-<div align="center">
-
-<h3>Building small tools with real use.</h3>
-
-</div>
