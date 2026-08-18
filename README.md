@@ -1,184 +1,70 @@
-<div align="center">
-
-# shazeus
-
-**Building desktop apps, web tools, CLI utilities and Minecraft clients.**
-
-<br>
-
-<a href="https://github.com/shazeus">
-  <img src="https://img.shields.io/badge/GitHub-shazeus-18181b?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://shazeus.github.io">
-  <img src="https://img.shields.io/badge/Website-Portfolio-6d5dfc?style=flat-square&logo=vercel&logoColor=white" alt="Website">
-</a>
-<a href="https://github.com/sponsors/shazeus">
-  <img src="https://img.shields.io/badge/GitHub-Sponsor-18181b?style=flat-square&logo=githubsponsors&logoColor=ea4aaa" alt="Sponsor">
-</a>
-
-</div>
-
-<br>
-
-## About
-
-I enjoy building useful software, experimenting with different ideas and turning small concepts into working projects.
-
-Most of my work includes desktop applications, command-line tools, web interfaces, automation utilities and Minecraft clients. I usually try to keep my projects practical, visually clean and easy to use.
-
-Currently interested in:
-
-- Minecraft clients and mods
-- Desktop applications
-- Developer utilities
-- Creative software
-- Web interfaces
-- AI-assisted tools
-
-<br>
-
-## Selected Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/shazeus/TermFX">TermFX</a>
-      </h3>
-      <p>
-        A native video editor built around FFmpeg rendering, timeline editing,
-        effects and AI-assisted workflows.
-      </p>
-      <p>
-        <code>Rust</code>
-        <code>FFmpeg</code>
-        <code>MCP</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/shazeus/LambDownload">LambDownload</a>
-      </h3>
-      <p>
-        A standalone desktop media downloader designed for video editors and
-        creative workflows.
-      </p>
-      <p>
-        <code>TypeScript</code>
-        <code>React</code>
-        <code>Electron</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/shazeus/reposcan">RepoScan</a>
-      </h3>
-      <p>
-        A terminal tool for analyzing repositories, commits, contributors,
-        languages and project activity.
-      </p>
-      <p>
-        <code>Python</code>
-        <code>CLI</code>
-        <code>GitHub API</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/shazeus/ghspy">GhSpy</a>
-      </h3>
-      <p>
-        A small GitHub profile analysis and open-source research utility.
-      </p>
-      <p>
-        <code>Python</code>
-        <code>CLI</code>
-        <code>OSINT</code>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<p align="right">
-  <a href="https://github.com/shazeus?tab=repositories">
-    View all repositories →
-  </a>
+<p align="center">
+  <img src="assets/profile-header.svg" width="100%" alt="Shazeus — native creative tools and security-minded software">
 </p>
 
-<br>
+<p align="center">
+  <a href="https://shazeus.github.io">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/shazeus?tab=repositories">Repositories</a>
+  &nbsp;·&nbsp;
+  <a href="https://guns.lol/shazeus">Links</a>
+</p>
 
-## Tools & Technologies
+## Software for editors, developers, and the space between
 
-<div align="center">
+I'm Shazeus. I build native Adobe plug-ins, desktop media utilities, and focused command-line tools. The subjects change, but the goal usually does not: take a real workflow, remove unnecessary steps, and ship something people can run locally.
 
-<img src="https://skillicons.dev/icons?i=rust,python,java,typescript,javascript,react,electron,nodejs,html,css,git,github,linux&perline=7" alt="Tools and technologies">
+Right now, most of my work sits in three areas:
 
-</div>
+- **Creative tooling** — native effects and utilities for After Effects, Premiere Pro, and media workflows.
+- **Applied inference** — bringing computer-vision models into practical desktop software with explicit performance and failure behaviour.
+- **Developer and security tools** — small Python CLIs for auditing, reconnaissance, automation, and day-to-day operations.
 
-<br>
+## Featured engineering
 
-<div align="center">
+### [DepthVision](https://github.com/shazeus/DepthVision) — monocular depth, inside Adobe
 
-<code>FFmpeg</code>
-&nbsp;
-<code>Fabric</code>
-&nbsp;
-<code>Forge</code>
-&nbsp;
-<code>Gradle</code>
-&nbsp;
-<code>GitHub API</code>
-&nbsp;
-<code>MCP</code>
+`C++` · `Adobe SDK` · `ONNX Runtime` · `DirectML` · `CMake`
 
-</div>
+A native After Effects and Premiere Pro effect that turns an ordinary frame into relative depth without sending footage to a remote service. It packages Depth Anything V2 with GPU/CPU execution, robust range normalization, edge-aware refinement, temporal stabilization, and eight compositing outputs. The Windows beta includes a reproducible installer, checksums, tests, and a documented runtime layout.
 
-<br>
+<sub><a href="https://github.com/shazeus/DepthVision/releases">Download</a> · <a href="https://github.com/shazeus/DepthVision#processing-pipeline">Processing pipeline</a> · <a href="https://github.com/shazeus/DepthVision/blob/main/docs/ARCHITECTURE.md">Architecture</a></sub>
 
-## What I Build
+### [Linear](https://github.com/shazeus/linear) — technical overlays from image regions
 
-<table>
-  <tr>
-    <td width="25%" align="center" valign="top">
-      <h3>Desktop</h3>
-      <p>Applications and small productivity tools.</p>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <h3>Minecraft</h3>
-      <p>Clients, mods, GUIs and module systems.</p>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <h3>Web</h3>
-      <p>Interactive websites and user interfaces.</p>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <h3>Utilities</h3>
-      <p>CLI tools, automation and developer workflows.</p>
-    </td>
-  </tr>
-</table>
+`C++17` · `Adobe SDK` · `Computer Vision` · `CMake`
 
-<br>
+An open-source native Adobe effect that detects color- or motion-derived regions and renders tracked boxes, markers, networks, measurement grids, paths, labels, and region-confined fills. Its shared core is render-order independent, covered by 43 dependency-free tests, and built on Windows and Linux in CI.
 
-<details>
-  <summary><b>Other projects and experiments</b></summary>
+<sub><a href="https://github.com/shazeus/linear/releases">Releases</a> · <a href="https://github.com/shazeus/linear/blob/main/docs/ARCHITECTURE.md">Architecture</a> · <a href="https://github.com/shazeus/linear/blob/main/docs/USER_GUIDE.md">User guide</a></sub>
 
-  <br>
+## More projects
 
-  I also experiment with smaller projects involving media processing,
-  repository analysis, terminal interfaces, network utilities, game-related
-  tools, automation scripts and AI integrations.
+| Project | What it is | Main stack |
+| --- | --- | --- |
+| **[LambDownload](https://github.com/shazeus/LambDownload)** | A desktop media downloader with editor-safe output and drag-and-drop into creative applications. | TypeScript, React, Electron, Python, FFmpeg |
+| **[Shellguard](https://github.com/shazeus/shellguard)** | A terminal session recorder that audits command streams for exposed secrets and risky shell patterns. | Python, PTY, JSONL |
+| **[GhSpy](https://github.com/shazeus/ghspy)** | A GitHub OSINT CLI for public profile, activity, technology, identity, and collaboration analysis. | Python, GitHub API |
+| **[dotfiles-tool](https://github.com/shazeus/dotfiles-tool)** | A profile-aware dotfile manager for tracking, encrypting, syncing, and restoring configuration. | Python, Git |
 
-</details>
+## Working stack
 
-<br>
+| Area | Tools I use in public projects |
+| --- | --- |
+| Native and media | `C++` `CMake` `Adobe SDK` `ONNX Runtime` `DirectML` `FFmpeg` |
+| Desktop and web | `TypeScript` `React` `Electron` `Node.js` |
+| CLI and automation | `Python` `PowerShell` `GitHub API` `Docker` `Kubernetes` |
+| Build and delivery | `GitHub Actions` `Inno Setup` `packaged runtimes` `release checksums` |
+
+## How I like to build
+
+I prefer projects that end in an installable tool, not only a source tree. That means treating packaging, failure messages, documentation, validation, and known limits as part of the product. I also keep inference and media processing local when the workflow allows it.
+
+Several projects are still beta or experimental. Their READMEs say what has actually been validated and what still needs host or platform testing; I would rather make the boundary visible than hide it behind a version number.
 
 ---
 
-<div align="center">
-
-<sub>Building, learning and trying new ideas.</sub>
-
-</div>
+<p align="center">
+  The best place for a project question is its issue tracker.<br>
+  For everything else: <a href="https://shazeus.github.io">shazeus.github.io</a>
+</p>

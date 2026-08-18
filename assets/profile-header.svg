@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Shazeus</title>
+  <desc id="desc">Native creative tools and security-minded software</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0d12"/>
+      <stop offset="1" stop-color="#111722"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b7cff"/>
+      <stop offset="1" stop-color="#55d6be"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#8b7cff" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#8b7cff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".045"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1280" height="320" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="320" fill="url(#background)"/>
+    <rect width="1280" height="320" fill="url(#grid)"/>
+    <ellipse cx="1035" cy="152" rx="285" ry="235" fill="url(#glow)"/>
+
+    <g fill="none" stroke-linecap="round">
+      <path d="M827 268C857 214 902 164 964 129c67-38 153-52 259-37" stroke="#55d6be" stroke-opacity=".18" stroke-width="1.5"/>
+      <path d="M852 283c33-66 81-118 144-151 65-34 141-45 229-31" stroke="#8b7cff" stroke-opacity=".3" stroke-width="1.5"/>
+      <path d="M896 293c30-63 73-109 130-136 55-27 121-35 198-24" stroke="#ffffff" stroke-opacity=".13" stroke-width="1.5"/>
+      <path d="M963 301c22-55 54-93 96-115 42-21 95-28 158-20" stroke="#55d6be" stroke-opacity=".28" stroke-width="1.5"/>
+      <path d="M1048 305c14-39 34-66 63-81 28-15 63-19 106-13" stroke="#8b7cff" stroke-opacity=".42" stroke-width="1.5"/>
+      <circle cx="1115" cy="161" r="92" stroke="#ffffff" stroke-opacity=".08"/>
+      <circle cx="1115" cy="161" r="64" stroke="#ffffff" stroke-opacity=".08"/>
+      <circle cx="1115" cy="161" r="36" stroke="url(#accent)" stroke-opacity=".65"/>
+      <path d="M1115 105v112M1059 161h112" stroke="#ffffff" stroke-opacity=".11"/>
+      <path d="M1107 161l6 6 13-15" stroke="#55d6be" stroke-width="2.5"/>
+    </g>
+
+    <g font-family="Inter, Segoe UI, Arial, sans-serif">
+      <text x="72" y="78" fill="#9ca5b5" font-size="13" font-weight="600" letter-spacing="3.4">NATIVE CREATIVE TOOLS / SECURITY-MINDED SOFTWARE</text>
+      <text x="68" y="178" fill="#f4f6fa" font-size="78" font-weight="760" letter-spacing="7">SHAZEUS</text>
+      <rect x="72" y="211" width="422" height="3" rx="1.5" fill="url(#accent)"/>
+      <text x="72" y="258" fill="#aeb6c5" font-size="19" letter-spacing=".35">Adobe plug-ins · desktop workflows · focused CLI software</text>
+    </g>
+
+    <path d="M0 319.5H1280" stroke="url(#accent)" stroke-opacity=".85"/>
+  </g>
+</svg>
