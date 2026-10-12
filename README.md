@@ -1,1 +1,1 @@
-<img width="736" height="720" alt="e01ac8be23c8bc9d8b8c9d5785b643d2" src="https://github.com/user-attachments/assets/e7ee2897-2a91-4b05-a404-07cf2b0c68f0" />tyger tyger
+<img width="1254" height="1254" alt="gorsel-1x1" src="https://github.com/user-attachments/assets/d26a32c8-5df3-41cd-a982-d39f4f674bbc" />
